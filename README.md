@@ -12,7 +12,7 @@ Aşağıda kutucuk (checkbox) ile gösterilen maddelerden en az birini seçtiği
 
 ### Disk Erişimi
 
-- [X]  **Blok bazlı disk erişimi** → block_id + offset
+- []  **Blok bazlı disk erişimi** → block_id + offset
 - [ ]  Rastgele erişim
 
 ### VT için Page (Sayfa) Anlamı
@@ -25,7 +25,7 @@ Aşağıda kutucuk (checkbox) ile gösterilen maddelerden en az birini seçtiği
 
 - [ ]  Veritabanları, Sık kullanılan sayfaları bellekte (RAM) kopyalar mı (caching) ?
 
-- [ ]  LRU / CLOCK gibi algoritmaları
+- [X]  LRU / CLOCK gibi algoritmaları
 - [ ]  Diske yapılan I/O nasıl minimize ederler?
 
 # 2. Veri Yapıları Perspektifi
@@ -39,7 +39,7 @@ Aşağıda kutucuk (checkbox) ile gösterilen maddelerden en az birini seçtiği
 
 DB diske yazarken:
 
-- [ ]  WAL (Write Ahead Log) İlkesi
+- [X]  WAL (Write Ahead Log) İlkesi
 - [ ]  Log disk (fsync vs write) sistem çağrıları farkı
 
 ---
