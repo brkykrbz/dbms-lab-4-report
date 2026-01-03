@@ -54,7 +54,7 @@ DB diske yazarken:
 | Kurtarma     | Yok                    | WAL Redo              |
 ---
 
-# Video [Linki](https://www.youtube.com/watch?v=Nw1OvCtKPII&t=2635s) 
+# Video [Linki](https://youtu.be/vv8qs96TeH8) 
 Ekran kaydı. 2-3 dk. açık kaynak V.T. kodu üzerinde konunun gösterimi. Video kendini tanıtma ile başlamalıdır (Numara, İsim, Soyisim, Teknik İlgi Alanları). 
 
 ---
@@ -85,8 +85,4 @@ Kurtarma sırasında veritabanı WAL’ı okuyarak tutarlılığı geri kurar. B
 
 ## VT Üzerinde Gösterilen Kaynak Kodları
 
-Açıklama [Linki](https://...) \
-Açıklama [Linki](https://...) \
-Açıklama [Linki](https://...) \
-... \
-...
+https://youtu.be/vv8qs96TeH8
